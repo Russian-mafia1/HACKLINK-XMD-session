@@ -14,17 +14,17 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN GIFTED-MDv2 』*
+║ *『 WOW YOU'VE CHOSEN TREX-MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@giftedtechnexus_
-║❒ *Owner:* _https://wa.me/message/NHCZC5DSOEUXB1_
-║❒ *Repo:* _https://github.com/Giftedmaurice/gifted-mdV2_
-║❒ *WaGroup:* _https://chat.whatsapp.com/L0ctUUVLlsrFYwBHApKfew_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
-║❒ *Plugins:* _https://github.com/Giftedmaurice/gifted-bot-md-plugins_
+║❒ *Ytube:* _youtube.com/@BERA_TECH_
+║❒ *Owner:* _https://wa.me/254743982206_
+║❒ *Repo:* _https://github.com/berabotsmd/TREX-MD_
+║❒ *WaGroup:* _https://chat.whatsapp.com/D3iyJB5hrhF7ov7JxgW92C_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q_
+║❒ *Plugins:* _https://github.com/berabotsmd/trex-md-plugins_
 ╚════════════════════════╝
 
 `
