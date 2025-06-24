@@ -1,8 +1,8 @@
 {
-    "name": "QR/Pair code-md",
-    "description": "I'm Web QR by Gifted tech & Excel",
-    "logo": "https://i.ibb.co/HtT3vjm/goku-gif-3.gif",
-    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
+    "name": "HACKLINK-XMD-session",
+    "description": "I'm Web QR by HACKLINK TECH.INC",
+    "logo": "https://ibb.co/xSS25DgF",
+    "repository": "https://github.com/Russian-mafia1/HACKLINK-XMD-session",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
