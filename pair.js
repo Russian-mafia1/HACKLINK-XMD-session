@@ -57,21 +57,21 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by Gifted Tech_*
+*_Pair Code Connected by HACKLINK-XMD _*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU CHOOSEN GIFTED-MDv2 』*
+║ *『 WOW YOU CHOOSEN 𝗛𝗔𝗖𝗞𝗟𝗜𝗡𝗞-𝗫𝗠𝗗 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@giftedtechnexus_
-║❒ *Owner:* _https://wa.me/message/NHCZC5DSOEUXB1_
-║❒ *Repo:* _https://github.com/Giftedmaurice/gifted-mdV2_
-║❒ *WaGroup:* _https://chat.whatsapp.com/L0ctUUVLlsrFYwBHApKfew_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
-║❒ *Plugins:* _https://github.com/Giftedmaurice/gifted-bot-md-plugins_
+║❒ *Ytube:* _youtube.com/@HACKLINK TECH.INC_
+║❒ *Owner:* _https://wa.me/message/254769677305_
+║❒ *Repo:* _https://github.com/Russian-mafia1/HACKLINK-XMD _
+║❒ *WaGroup:* _https://chat.whatsapp.com/E9mVfukNRX13eF45Wbmk7t
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb6Gy5XDzgTBTarvMW1O
+║❒ *Plugins:* _https://github.com/Russian-mafia1/HACKLINK-XMD-session
 ╚══════════════════════╝ 
 _____________________________________
 
